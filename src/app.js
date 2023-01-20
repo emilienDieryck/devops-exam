@@ -10,6 +10,7 @@ try {
 
     gamerTagInput.addEventListener("change", (event) => {
         gamerTagValue = event.target.value;
+        
     });
 
     checkButton.addEventListener("click", () => {
